@@ -154,5 +154,5 @@ For any queries or suggestions, feel free to reach out:
 
 *   **👤 Name:** LALITH VARDHAN REDDY
 *   📧 **Email:** reddylalithvardhan@gmail.com
-*   💻 **GitHub:** [LALITH VARDHAN REDDY](https://github.com/SHREYES22)
+*   💻 **GitHub:** [LALITH VARDHAN REDDY](https://github.com/Lalith-Reddy2004)
 *   🔗 **LinkedIn:** [LALITH VARDHAN REDDY](www.linkedin.com/in/lalithvardhan-reddy-bb0420272)
