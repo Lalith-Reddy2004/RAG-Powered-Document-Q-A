@@ -1,18 +1,37 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
 
-# Other files and folders
-.settings/
+# Environments
+.env
+.env.*
+.venv/
+venv/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Editors/IDE
+.vscode/
+.idea/
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# OS
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data caches or large files (keep sample small files)
+data/**/*.cache
+data/**/*.tmp
+data/**/*.log
+data/index/
+
+# Node (for Mermaid CLI cache if any)
+node_modules/
+npm-debug.log*
+package-lock.json
