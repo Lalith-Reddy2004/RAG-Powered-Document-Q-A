@@ -146,3 +146,13 @@ Show Results:
 
 - `sentence-transformers` will download the embedding model (`all-MiniLM-L6-v2`) on first use.
 - `transformers` will download `google/flan-t5-base` on first use if `RAG_USE_TRANSFORMERS` is enabled. Use the fallback generator by setting `$env:RAG_USE_TRANSFORMERS = "0"` to avoid large downloads.
+
+📞 Contact
+----------
+
+For any queries or suggestions, feel free to reach out:
+
+*   **👤 Name:** LALITH VARDHAN REDDY
+*   📧 **Email:** reddylalithvardhan@gmail.com
+*   💻 **GitHub:** [LALITH VARDHAN REDDY](https://github.com/SHREYES22)
+*   🔗 **LinkedIn:** [LALITH VARDHAN REDDY](www.linkedin.com/in/lalithvardhan-reddy-bb0420272)
